@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, good to see you here!
+
+My name is Lucas, I'm 22 years old and a young brazilian iOS Developer at Apple Developer Academy
+
+
 
 <!--
 **lucasasantana/lucasasantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
