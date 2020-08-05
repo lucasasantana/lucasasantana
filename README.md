@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lucasasantana&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasasantana)](https://github.com/lucasasantana/github-readme-stats)
